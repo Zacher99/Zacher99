@@ -1,8 +1,8 @@
 # Olá eu sou o Zacher 👋
 
 #### 🌱Atualmente estou estudando HTML, CSS e JavaScript
-![Zacher's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacher99&theme=transparent&bg_color=000&hide_border=true&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacher99&theme=transparent&hide_border=true&&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact)
+![Zacher's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacher99&theme=transparent&hide_border=true&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacher99&theme=transparent&hide_border=true&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact)
 ##
 
 <div>
