@@ -21,4 +21,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuszacher/)
 [![Credly Profile](https://img.shields.io/badge/-Credly_Profile-0a3876?style=for-the-badge&logoColor=white)](https://www.credly.com/users/matheus-zacher)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zacher_)
+
