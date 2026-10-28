@@ -10,9 +10,10 @@ My current study focus is cloud security, covering WAF, incident response and pe
 |---|---|
 | Cloud | AWS |
 | Containers | Kubernetes on EKS, Karpenter, Docker, Helm |
-| GitOps | ArgoCD |
+| CI/CD and GitOps | GitHub Actions, GitLab CI, Bitbucket Pipelines, ArgoCD |
 | IaC | Terraform, Terragrunt |
 | Automation | Python, Bash |
+| Observability | Datadog, Grafana, Prometheus, OpenTelemetry |
 | Security | IAM, AWS WAF, Site-to-Site and Client VPN, GuardDuty, Security Hub, KMS, network segmentation |
 
 ## Certifications
