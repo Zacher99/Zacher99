@@ -1,6 +1,6 @@
 # Matheus Zacher
 
-Cloud and DevOps Engineer at [DreamSquad](https://dreamsquad.com.br), an AWS partner consultancy. I work on client infrastructure on AWS, from the initial assessment to ongoing operations, with Kubernetes, Terraform and Terragrunt as my daily tools.
+Cloud Engineer at [DreamSquad](https://dreamsquad.com.br), an AWS partner consultancy. I work on client infrastructure on AWS, from the initial assessment to ongoing operations, with Kubernetes, Terraform and Terragrunt as my daily tools.
 
 My current study focus is cloud security, covering WAF, incident response and penetration testing in lab environments.
 
